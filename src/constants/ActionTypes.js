@@ -1,0 +1,7 @@
+export const ADD_STOCK = "ADD_STOCK";
+export const REMOVE_STOCK = "REMOVE_STOCK";
+
+export const SELL_PRODUCT = "SELL_PRODUCT";
+
+export const RECEIVE_INVENTORY = "RECEIVE_INVENTORY";
+export const RECEIVE_PRODUCTS = "RECEIVE_PRODUCTS";
